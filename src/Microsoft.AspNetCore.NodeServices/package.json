@@ -10,7 +10,7 @@
   "author": "Microsoft",
   "license": "Apache-2.0",
   "devDependencies": {
-    "@types/node": "^10.9.2",
+    "@types/node": "^10.17.60",
     "ts-loader": "^4.5.0",
     "typescript": "^3.0.1",
     "webpack": "^4.17.1",
